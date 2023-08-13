@@ -1,5 +1,3 @@
-# caesar-encryption
-
 # A Caesar Encryption tool in Python
 
 Welcome to this repository containing a caesar encryption tool in Python. This simple tool basically involves the substition of each letter in the plaintext provided, by a letter a certain number of positions away in the alphabet.
