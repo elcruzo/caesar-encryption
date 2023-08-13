@@ -23,15 +23,15 @@ The following code contains the Caesar encryption, a form of substitution cipher
 To run this implementation, you need:
 
 - Python 3.x
-- The `tkinter` module (usually included in Python standard library)
+- The `string` module (usually included in Python standard library)
 
 ## Installation
 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/elcruzo/gui-calc.git
-   cd gui-calc
+   git clone https://github.com/elcruzo/caesar-encryption.git
+   cd caesar-encryption
    ```
 
 2. Ensure you have Python 3.x installed. You can check by running:
@@ -54,19 +54,17 @@ To run this implementation, you need:
    python3 index.py
    ```
 
-6. Upon execution, the script will present a pop-up displaying the familiar calculator interface, allowing you to proceed with its utilization.
+6. Upon execution, the script will give the encrypted version of the <b>plain text</b> (on line 14 of the script).
 
 ## Example
 
 Here's a brief example of how to run the code:
 
 ```bash
-git clone https://github.com/elcruzo/gui-calc.git
-cd gui-calc
+git clone https://github.com/elcruzo/caesar-encryption.git
+cd caesar-encryption
 python3 index.py
 ```
-
-You will see a change show up on the text grid with each click of a button, displaying the result when you perform operations.
 
 ## Contributions
 
@@ -78,4 +76,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Have fun exploring my GUI Calculator! If you have any questions or run into issues, don't hesitate to ask for help.
+Have fun exploring my Caesar Encryption tool! If you have any questions or run into issues, don't hesitate to ask for help.
